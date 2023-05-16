@@ -25,3 +25,6 @@ My favourite superheroes Page <br>
 Display a list of all the favourite superheroes. <br>
 Make this list persistent (should have the same number of superheroes before and after closing the browser). <br>
 Remove from favourites button: Each superhero should have remove from favourites button, clicking on which should remove that superhero from the list. <br>
+ 
+ Live <br>
+ https://rhittick.github.io/Superhero-Hunter/
