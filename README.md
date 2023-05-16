@@ -7,7 +7,7 @@ Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or fram
 
 
  Features <br>
- ---------- <br>
+ ------------- <br>
   <br>
 Home Page  <br>
 ------------- <br>
