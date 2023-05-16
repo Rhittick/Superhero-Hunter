@@ -7,7 +7,7 @@ Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or fram
 
 
  Features <br>
- ------------- <br>
+ --------- <br>
   <br>
 Home Page  <br>
 ------------- <br>
@@ -17,7 +17,7 @@ Each search result of the superhero should have a favorite button, clicking on w
 On clicking any particular search result (any superhero), open a new page with more information about that superhero (Superhero page). <br>
 
 Superhero Page <br>
- --------------- <br>
+ ------------------ <br>
 Should show a lot of information about the superhero like their name, photo, bio and other information provided by the API (comics, events, series, stories, etc). <br>
 
 My favourite superheroes Page <br>
