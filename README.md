@@ -2,8 +2,8 @@
 
 TEST NAME: Superhero Hunter JS
 
-Problem statement
-Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).
+Problem statement <br>
+Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).<br>
 
 
 Features
